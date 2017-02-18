@@ -5,3 +5,6 @@ ELECTIVE LESSON
 "How to use Git and Github"
 
 Lessons 1, 2 and 3
+
+Support links:
+
