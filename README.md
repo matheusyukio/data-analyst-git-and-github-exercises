@@ -1,9 +1,8 @@
 # data analyst udacity course exercises
 
-repository with exercises
+Repository with exercises of Udacity course Data Analyst, a space game written in Javascript.
 
-ELECTIVE LESSON
-"How to use Git and Github"
+This repository is part of: ELECTIVE LESSON - "How to use Git and Github"
 
 Support links:
 
