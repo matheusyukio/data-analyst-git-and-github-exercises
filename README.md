@@ -9,3 +9,5 @@ Support links:
 [contributing-to-open-source](https://career-resource-center.udacity.com/contributing-to-open-source)
 <br>
 [github larrymad recipes](https://github.com/LarryMad/recipes)
+
+[writing readmes](https://br.udacity.com/course/writing-readmes--ud777/)
