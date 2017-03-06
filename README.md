@@ -6,7 +6,7 @@ This repository is part of: ELECTIVE LESSON - "How to use Git and Github"
 
 Support links:
 
-[contributing-to-open-source](https://career-resource-center.udacity.com/contributing-to-open-source)
-[github larrymad recipes](https://github.com/LarryMad/recipes)
-[writing readmes](https://br.udacity.com/course/writing-readmes--ud777/)
+[contributing-to-open-source](https://career-resource-center.udacity.com/contributing-to-open-source)<br>
+[github larrymad recipes](https://github.com/LarryMad/recipes)<br>
+[writing readmes](https://br.udacity.com/course/writing-readmes--ud777/)<br>
 [Kaggle, Data science competitions](https://www.kaggle.com/)
